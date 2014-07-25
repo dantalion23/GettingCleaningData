@@ -25,7 +25,7 @@ reducedDataFrame.txt with 180 rows and 81 columns, reduced from the original 102
 The original data comprised a training set and a test set, each with 561 variables. These variables were measurements taken on thirty subjects who
 performed six different types of activity (Walking, Walking up stairs, Walking Down stairs, Sitting, Standing and Laying down. the project brief was
 to reduce this dataset to the means of all the variables that were either mean readings, with the word "mean" in their name, or standard deviations,
-with "std" in their name. There is some latitude in the interpretation of which variables were mean reading and i chose the widest interpretaion to
+with "std" in their name. There is some latitude in the interpretation of which variables were mean reading and I chose the widest interpretaion to
 get 79 variables measured against Subkject and Activity to give 81 columns.
 
 ## References.
